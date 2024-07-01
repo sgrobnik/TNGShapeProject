@@ -1,3 +1,4 @@
 *.png
 *.jpg
 *.hdf5
+.DS_store
